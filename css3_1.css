@@ -1,0 +1,40 @@
+body {
+	background-color: blue 
+}
+
+#sandbox {
+	font: goudy-bookletter-1911-1,  \goudy-bookletter-1911-2,  \Baskerville, \Georgia, serif;
+	border: 1px solid rgb(21,11,11);
+	overflow:hidden;
+	margin: 40px 0 0 30px;
+	padding: 20px;
+	z-index: 2;
+	color: rgb(0, 0, 0);
+	width: 440px;
+	font-size: 16px;
+}
+
+header { 
+	margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
+    margin-right: 0;
+	font-size: 56px;
+	word-spacing: 2px;
+}
+
+abbr {
+	cursor: help;
+	font-size: 130%;
+	color: #ff2166;
+	border-bottom: 1px dotted #888;
+}
+
+p {
+	font-size: 30px;
+ 	line-height: 50px;
+ 	margin: 0 0 0 0;
+	width: auto;
+} 
+
+
